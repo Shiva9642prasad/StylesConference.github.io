@@ -1,0 +1,140 @@
+.LeftContainer{
+    height: 170px;
+    background: #293f50;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    font-size: 38px;
+    padding: 26px;
+    padding-left: 23%;
+    letter-spacing: 3px;
+    font-weight: 100;
+    text-decoration: none;
+
+}
+
+.RightContainer{
+    height: 170px;
+    background: #293f50;
+    color:white;
+    float: left;
+}
+
+.date{
+    padding: 40px;
+    margin: 0px 24%;
+    letter-spacing: 2px;
+    font-size: 19px;
+    color: #648880;
+}
+
+.link{
+    justify-content: space-around;
+    padding: -7px;
+    margin: -13px 16%;
+    align-items: center;
+    display: flex;
+}
+
+.SecondRow{
+    background: linear-gradient(45deg, #add092, transparent);
+    height: 220px;
+    display: flex;
+    float: left;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    color: #648880;
+    font-size: 38px;
+    margin-bottom: 22px;
+}
+
+p{
+    font-size: 22px;
+    width: 60%;
+    margin: 0px 22%;
+    color: #a2998b;
+}
+
+.container{
+    width: 60%;
+    margin: 0px 23%;
+    padding: 30px;
+}
+.row{
+    display: flex;
+    float: left;
+    width: 100%;
+}
+
+.x{
+    text-align: right;
+    margin-right: 15px;
+    padding-top: 66px;
+    padding-bottom: 24px;
+}
+
+.y{
+    color: darkgray;
+    border-bottom: 1px solid darkgray;
+    padding-top: 66px;
+}
+
+.z{
+    color:darkgray;
+    text-align: right;
+    margin-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.m{
+     padding-top: 30px;
+    text-align: right;
+    margin-right: 15px;
+}
+
+.n{
+    color: darkgrey;
+    border-bottom: 1px solid darkgray;
+    padding-top: 20px;
+    
+}
+
+h4,h5{
+    color: #648880;
+}
+
+.o{
+    border-bottom: 1px solid darkgray;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.Footer{
+    float: left;
+    display: flex;
+    width: 100%;
+    background:#293f50;
+    color: white;
+    height: 90px;
+}
+
+.Copy{
+    display: flex;
+    align-items: center;
+    margin: 0px 18%;
+    margin-right: 82px;
+}
+.link2{
+    justify-content: space-around;
+    margin: 0px 11%;
+    align-items: center;
+    display: flex;
+    width: 33%;
+}
+
